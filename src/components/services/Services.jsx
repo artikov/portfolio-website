@@ -60,20 +60,16 @@ const Services = () => {
             </li>
             <li>
               <BsCheckLg className='service__list-icon'/>
-              <p>Developing Back-end of a Website</p>
+              <p>Developing Back End of a Website</p>
             </li>
             <li>
               <BsCheckLg className='service__list-icon'/>
-              <p>Database Management Systems</p>
+              <p>Creating Single Page Applications</p>
             </li>
-            {/* <li>
-              <BsCheckLg className='service__list-icon'/>
-              <p></p>
-            </li> */}
           </ul>
         </article>
 
-        {/* content-creation */}
+        {/* other services */}
 
         <article className='service'>
           <div className="service__head">
@@ -87,11 +83,11 @@ const Services = () => {
             </li>
             <li>
               <BsCheckLg className='service__list-icon'/>
-              <p>iOS App Development</p>
+              <p>Database Integration</p>
             </li>
             <li>
               <BsCheckLg className='service__list-icon'/>
-              <p>Database Integration</p>
+              <p>Database Management Systems</p>
             </li>
             <li>
               <BsCheckLg className='service__list-icon'/>

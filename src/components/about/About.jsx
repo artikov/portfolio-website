@@ -23,24 +23,24 @@ function About() {
             <article className='about__card'>
               <FaAward className='about__icon'/>
               <h5>Experience</h5>
-              <small>3+ years of working exeprience</small>              
+              <small>1+ years of exeprience</small>              
             </article>
             <article className='about__card'>
               <FaUsers className='about__icon'/>
               <h5>Clients</h5>
-              <small>10+ freelance jobs worldwide</small>              
+              <small>5+ freelance jobs worldwide</small>              
             </article>
             <article className='about__card'>
               <FaFolderOpen className='about__icon'/>
               <h5>Projects</h5>
-              <small>50+ completed projects</small>              
+              <small>30+ completed projects</small>              
             </article>
           </div>
 
           <h4>
           I’m Oybek, a Software Developer working remotely as a Freelancer in Tashkent, Uzbekistan.
           </h4>
-          <p>I’ve spent the past 3+ years learning about software development and working across different areas of web development; 
+          <p>I’ve spent the past 4+ years learning about software development and working across different areas of Software Engineering; 
           front-end development, email design, app UI/UX.
           </p>
           <p>These days my time is spent studying, creating, researching, and coding. I also occasionally do freelance offers.</p>
