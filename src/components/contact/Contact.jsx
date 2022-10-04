@@ -30,8 +30,8 @@ const Contact = () => {
         <article className='contact__option'>
           <RiMailSendLine className='contact__option-icon' />
           <h4>Email</h4>
-          <h5>artikov1208@gmail.com</h5>
-          <a href="mailto:artikov1208@gmial.com" target='_blank' rel="noreferrer">Send me an email</a>
+          <h5>artikov.dev@gmail.com</h5>
+          <a href="mailto:artikov.dev@gmial.com" target='_blank' rel="noreferrer">Send me an email</a>
         </article>
 
         <article className='contact__option'>

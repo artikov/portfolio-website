@@ -7,6 +7,10 @@ import IMG6 from './assets/img/projects/todo-app-nodejs.png'
 import IMG7 from './assets/img/projects/weather.png'
 import CERT1 from './assets/img/certificates/NodeJS.jpg'
 import CERT2 from './assets/img/certificates/WebDev.jpg'
+import CERT3 from './assets/img/certificates/js.png'
+import CERT4 from './assets/img/certificates/frontend.png'
+import CERT5 from './assets/img/certificates/python.png'
+
 
 export const data = [
     {
@@ -63,20 +67,32 @@ export const data = [
 export const certificates = [
     {
       id: 1,
-      image: CERT1,
-      title: 'NodeJS & Express',
-      subtitle: 'Udemy'
-    },
-    {
-      id: 2,
       image: CERT2,
       title: 'Web Development',
-      subtitle: 'Udemy'
+      subtitle: 'App Brewery'
     },
     {
       id: 2,
-      image: CERT2,
-      title: 'Computer Science 50',
-      subtitle: 'Harvard'
+      image: CERT3,
+      title: 'Programming with Java Script',
+      subtitle: 'Meta'
+    },
+    {
+        id: 3,
+        image: CERT5,
+        title: 'Python Pro Bootcamp',
+        subtitle: 'App Brewery'
+    },
+    {
+        id: 4,
+        image: CERT4,
+        title: 'Front End development',
+        subtitle: 'Udemy'
+    },
+    {
+        id: 5,
+        image: CERT1,
+        title: 'NodeJS & Express',
+        subtitle: 'Udemy'
     },
   ]
