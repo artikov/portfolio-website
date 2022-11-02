@@ -5,6 +5,7 @@ import IMG4 from './assets/img/projects/blog.png'
 import IMG5 from './assets/img/projects/keeper-app-react.png'
 import IMG6 from './assets/img/projects/todo-app-nodejs.png'
 import IMG7 from './assets/img/projects/weather.png'
+import IMG8 from './assets/img/projects/hoobank.png'
 import CERT1 from './assets/img/certificates/NodeJS.jpg'
 import CERT2 from './assets/img/certificates/WebDev.jpg'
 import CERT3 from './assets/img/certificates/js.png'
@@ -60,6 +61,13 @@ export const data = [
       image: IMG1,
       title: 'Password App (Python)',
       github: 'https://github.com/artikov/',
+    },
+    {
+      id: 8,
+      image: IMG8,
+      title: 'Bank Application (React & TailwindCSS)',
+      github: 'https://github.com/artikov/modern-bank-ui',
+      demo: 'https://artikov-bank.netlify.app/'
     },
   ]
 
